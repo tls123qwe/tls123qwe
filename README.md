@@ -2,7 +2,7 @@
 
 - 🌱 Java, Spring Boot로 API 서버를 공부하고 있습니다
 - 🔍 성능 개선과 트러블슈팅 과정을 기록하는 걸 좋아합니다
-- 📝 Blog: https://yoshi.tistory.com
+- 📝 Blog: https://tls123qwe.tistory.com
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
