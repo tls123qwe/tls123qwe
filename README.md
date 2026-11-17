@@ -16,8 +16,10 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tls123qwe&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tls123qwe&layout=compact&theme=tokyonight" height="165"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="90%"/>
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165"/>
 
 ### 📫 Contact
 <a href="https://[실제블로그].tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
