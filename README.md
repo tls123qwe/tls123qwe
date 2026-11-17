@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Yoshi&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I%27m%20Yoshi&fontSize=50&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot;Redis+%7C+Kafka" />
 
@@ -16,12 +16,12 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yoshi&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tls123qwe&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tls123qwe&layout=compact&theme=tokyonight" height="165"/>
 
 ### 📫 Contact
-<a href="https://yoshi.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<a href="mailto:yoshi@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://[실제블로그].tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="mailto:tls123qwe@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
